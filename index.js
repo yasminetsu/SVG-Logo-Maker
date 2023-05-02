@@ -1,4 +1,4 @@
-import { coloursArray } from '../../SVG-Logo-Maker/coloursArray.js/index.js';
+import { coloursArray } from './coloursArray.js';
 import fs from 'fs';
 import path from 'path';
 const __dirname = path.resolve();

@@ -72,9 +72,16 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered<br>
 <br>
 
 ## Tests Passing
+<br>
+<p align="left">
+  <img src=images/tests.png>
+</p>
+
+<br>
+<br>
 
 ## Instructional Video Link
 <br>
 <br>
 
-
+[SVG Logo Generator, How Do You Use It?](https://youtu.be/5CZbPmcF46o)
